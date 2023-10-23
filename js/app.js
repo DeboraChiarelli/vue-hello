@@ -10,7 +10,7 @@ data()
 {
     return {
         message: "Hello World",
-        color: "text-orange bg-red",
+        color: "text-orange bg-red padding",
         img: "img/DSC_0026_01.JPG",
         imageContainer: "size",   
     }  
