@@ -8,6 +8,10 @@ img {
     max-width: 800px;
 }
 
-.orange {
+.text-orange {
     color: orange;
+}
+
+.bg-red {
+    background-color: red;
 }
